@@ -1,0 +1,23 @@
+{
+  "name": "ip_address_count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeeva0104/IP_address_count.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeeva0104/IP_address_count/issues"
+  },
+  "homepage": "https://github.com/Jeeva0104/IP_address_count#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
